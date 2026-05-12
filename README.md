@@ -23,8 +23,8 @@ The goal of this analysis is to explore the Netflix library and understand:
 * **Dataset:** Netflix Dataset.
 * **DAX:** Created custom measures for advanced calculations.
 
-## 📸 Dashboard Preview
-*(Add your dashboard screenshot here to make your profile look professional!)*
+##Kaggle dataset
+*https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## 📁 Repository Structure
 * `Netflix.pbix`: The main Power BI project file.
